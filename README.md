@@ -1,23 +1,16 @@
 <p align="center"><b>Hi, I'm Reece 👋</b></p>
 
-<!-- General -->
-<table align="center">
-  <tbody><tr><td>
-    🔭 Localization at <a href="https://github.com/Canva">@Canva</a><br/>
-    <sub><sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" />&nbsp;</sub></sub> MBA student at <a href="https://quantic.edu/">@Quantic</a><br/>
-    💬 Chat to me about product development!<br/>
-    🎮 Check out my games (like <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup Soccer</a>)<br/>
-  </td></tr></tbody>
-</table>
-
-<!-- Tech Stack -->
+<!-- Headline -->
 <p align="center">
-  <sup>🧑‍💻 <b>Looking for help?</b> Ask me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.</sup>
+  <sup>🧑‍💻 Engineer <a href="https://github.com/Canva">@ Canva</a>
+    &nbsp;|&nbsp;
+    <sub><sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub></sub> MBA student <a href="https://quantic.edu/">@ Quantic</a></sup>
 </p>
 
 <!-- Links -->
 <p align="center">
-  <kbd><br/>
+  <kbd>
+    <br/>
     &nbsp;
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/reececomo/"><!--
@@ -41,3 +34,20 @@
     &nbsp;
   </kbd>
 </p>
+
+<!-- Tech Stack -->
+<p align="center">
+  <sub>
+    🔭 <b>Looking for help?</b> Ask me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.
+  </sub>
+</p>
+
+<!-- Bonus -->
+<details align="center">
+  <summary><sub><sup><b>(Click here)</b></sup></sub></summary>
+  
+  <kbd>Nice. You clicked!</kbd>
+
+  🎮 <b>Bonus:</b> Check out <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup: World Soccer!</a>
+
+</details>
