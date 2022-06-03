@@ -1,4 +1,4 @@
-<p align="center"><b>Hi, I'm Reece 👋</b></p>
+<h3 align="center">Hi, I'm Reece 👋</h3>
 
 <!-- Headline -->
 <p align="center">
