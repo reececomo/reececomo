@@ -2,9 +2,9 @@
 
 <!-- Headline -->
 <p align="center">
-  <sup>🧑‍💻 Engineer <a href="https://github.com/Canva">@ Canva</a>
+  🧑‍💻 Engineer <a href="https://github.com/Canva">@ Canva</a>
     &nbsp;|&nbsp;
-    <sub><sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub></sub> MBA student <a href="https://quantic.edu/">@ Quantic</a></sup>
+    <sub><sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub></sub> MBA student <a href="https://quantic.edu/">@ Quantic</a>
 </p>
 
 <!-- Links -->
@@ -38,16 +38,16 @@
 <!-- Tech Stack -->
 <p align="center">
   <sub>
-    🔭 <b>Looking for help?</b> Ask me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.
+    🔭 <b>Looking for help?</b> Talk to me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.
   </sub>
 </p>
 
 <!-- Bonus -->
 <details align="center">
-  <summary><sub><sup><b>(Click here)</b></sup></sub></summary>
+  <summary><sub><sup><b>(Bonus, click here!)</b></sup></sub></summary>
   
   <kbd>Nice. You clicked!</kbd>
 
-  🎮 <b>Bonus:</b> Check out <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup: World Soccer!</a>
+  🎮 <b>Bonus:</b> Check out my iOS game <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup: World Soccer!</a>
 
 </details>
