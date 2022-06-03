@@ -38,7 +38,7 @@
 <!-- Tech Stack -->
 <p align="center">
   <sub>
-    🔭 <b>Looking for help?</b> Talk to me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.
+    📣 Talk to me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.
   </sub>
 </p>
 
