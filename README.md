@@ -35,19 +35,7 @@
   </kbd>
 </p>
 
-<!-- Tech Stack -->
-<p align="center">
-  <sub>
-    📣 Talk to me about TypeScript, PHP/Laravel,<br/> Python/Django, iOS/Swift, iOS, Rails, Java & more.
-  </sub>
-</p>
-
 <!-- Bonus -->
-<details align="center">
-  <summary><sub><sup><b>(Bonus, click here!)</b></sup></sub></summary>
-  
-  <kbd>Nice. You clicked!</kbd>
-
-  🎮 <b>Bonus:</b> Check out my iOS game <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup: World Soccer!</a>
-
-</details>
+<p align="center">
+  🎮 <sub><b>Like remakes of old games? Check out <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup: World Soccer!</a></b></sub>
+</p>
