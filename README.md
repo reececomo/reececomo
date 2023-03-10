@@ -4,7 +4,7 @@
 <p align="center">
   🧑‍💻 Engineer <a href="https://github.com/Canva">@ Canva</a>
     &nbsp;|&nbsp;
-    <sub><sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub></sub> MBA student <a href="https://quantic.edu/">@ Quantic</a>
+    <sub><sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub></sub> MBA <a href="https://quantic.edu/">@ Quantic</a>
 </p>
 
 <!-- Links -->
