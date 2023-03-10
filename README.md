@@ -37,5 +37,5 @@
 
 <!-- Bonus -->
 <p align="center">
-  🎮 <sub><b>Like remakes of old games? Check out <a href="https://apps.apple.com/au/app/tiny-cup-world-soccer/id1599875896">Tiny Cup: World Soccer!</a></b></sub>
+  🎮 <sub><b>Check out <a href="https://slugs.lol">Slug Soccer online</a></b></sub>
 </p>
