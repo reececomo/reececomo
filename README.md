@@ -2,9 +2,9 @@
 
 <!-- Headline -->
 <p align="center">
-  🧑‍💻 <a href="https://linkedin.com/in/reececomo">Team Lead</a> <a href="https://github.com/Canva">@ Canva</a>
+  🧑‍💻 <a href="https://linkedin.com/in/reececomo">Team Lead @</a> <a href="https://github.com/Canva">Canva</a>
     &nbsp;|&nbsp;
-    <sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub> <a href="https://linkedin.com/in/reececomo">MBA</a> <a href="https://quantic.edu/">@ Quantic</a>
+    <sub><img alt="Quantic" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub> <a href="https://linkedin.com/in/reececomo">MBA @</a> <a href="https://quantic.edu/">Quantic</a>
 </p>
 
 <!-- Links -->
