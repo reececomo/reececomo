@@ -37,5 +37,5 @@
 
 <!-- Bonus -->
 <p align="center">
-  🎮 <sub><b>Check out <a href="https://slugs.lol">Slug Soccer online</a></b></sub>
+  🎮 <sub><b>Check out <a href="https://slugs.lol">my Slugs.lol game 🏀</a></b></sub>
 </p>
