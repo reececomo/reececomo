@@ -1,10 +1,8 @@
-<h3 align="center">Hi, I'm Reece 👋</h3>
+<h3 align="center">Reece Como</h3>
 
 <!-- Headline -->
 <p align="center">
-  Senior Engineer
-  &nbsp;|&nbsp;
-  <sub><img alt="Canva Logo" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/canva.png" /></sub> ex-Canva
+  Former <sub><img alt="Canva Logo" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/canva.png" /></sub> Senior Software Engineer / Engineering Manager @ Canva
   &nbsp;|&nbsp;
   <sub><img alt="Quantic School of Business and Technology Logo" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub> Quantic MBA
 </p>
@@ -41,11 +39,13 @@
 
 <!-- Main banner -->
 <p align="center">
-  Check out <b><a href="https://2dsoccer.com">2dsoccer.com</a></b>
+  Check out:
+  <br/>🔌 <b><a href="https://github.com/reececomo/tinybuf">tinybuf</a></b> – Compressed binary buffers for HTML5
+  <br/>🎬 <b><a href="https://github.com/reececomo/pixijs-actions">pixijs-actions</a></b> – SKActions-style animation library for <a href="https://github.com/pixijs/pixijs">PixiJS</a>
 </p>
-<div align="center">
-  <a href="https://2dsoccer.com"><img alt="2DSoccer.com Logo" height="111px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/2d-soccer.png" /></a>
-</div>
 <p align="center">
-  Real-time multiplayer soccer in the browser!
+  ⚽ <b><a href="https://2dsoccer.com">2dsoccer.com</a></b> – Real-time multiplayer arcade soccer, in the browser! <b>(🚧 work in progress)</b>
+</p>
+<p align="center">
+  <a href="https://2dsoccer.com"><img alt="2DSoccer.com Logo" height="128px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/2d-soccer.png" /></a>
 </p>
