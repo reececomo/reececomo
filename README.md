@@ -2,7 +2,7 @@
 
 <!-- Headline -->
 <p align="center">
-  Former <sub><img alt="Canva Logo" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/canva.png" /></sub> Senior Software Engineer / Engineering Manager @ Canva
+  Engineering Manager / Software Engineer
   &nbsp;|&nbsp;
   <sub><img alt="Quantic School of Business and Technology Logo" width="16.5px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/quantic-sbt.png" /></sub> Quantic MBA
 </p>
