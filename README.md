@@ -40,12 +40,16 @@
 <!-- Main banner -->
 <p align="center">
   Check out:
-  <br/>🔌 <b><a href="https://github.com/reececomo/tinybuf">tinybuf</a></b> – Compressed binary buffers for HTML5
-  <br/>🎬 <b><a href="https://github.com/reececomo/pixijs-actions">pixijs-actions</a></b> – SKActions-style animation library for <a href="https://github.com/pixijs/pixijs">PixiJS</a>
+  <br/>🎬 <b><a href="https://github.com/reececomo/pixijs-actions">pixijs-actions</a></b> – SKActions-like animation library for <a href="https://github.com/pixijs/pixijs">pixi.js 6-8+</a>
+  <br/>📟 <b><a href="https://github.com/reececomo/tinybuf">tinybuf</a></b> – Compressed binary buffers for HTML5 / Node.js
+</p>
+
+
+<hr/>
+
+<p align="center">
+  <a href="https://2dsoccer.com"><img alt="2DSoccer.com Logo" height="64px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/2d-soccer.png" /></a>
 </p>
 <p align="center">
-  ⚽ <b><a href="https://2dsoccer.com">2dsoccer.com</a></b> – Real-time multiplayer arcade soccer, in the browser! <b>(🚧 work in progress)</b>
-</p>
-<p align="center">
-  <a href="https://2dsoccer.com"><img alt="2DSoccer.com Logo" height="128px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/2d-soccer.png" /></a>
+  Real time physics multiplayer via UDP in the browser!
 </p>
