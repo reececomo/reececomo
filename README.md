@@ -38,14 +38,22 @@
 <hr/>
 
 <!-- Main banner -->
+
+### Recent open source projects:
+
 <p align="center">
-  Check out:
-  <br/>🎬 <b><a href="https://github.com/reececomo/pixijs-actions">pixijs-actions</a></b> – SKActions-like animation library for <a href="https://github.com/pixijs/pixijs">pixi.js 6-8+</a>
-  <br/>📟 <b><a href="https://github.com/reececomo/tinybuf">tinybuf</a></b> – Compressed binary buffers for HTML5 / Node.js
+
+| library | what is it? |
+|---|---|
+| 🎬 <b><a href="https://github.com/reececomo/pixijs-actions">pixijs-actions</a></b> | SKActions-like animation library for <a href="https://github.com/pixijs/pixijs">PixiJS 6, 7, 8+</a> |
+| 🎥 <b><a href="https://github.com/reececomo/pixijs-interpolated-ticker">pixijs-interpolated-ticker</a></b> | High-performance frame interpolation for <a href="https://github.com/pixijs/pixijs">PixiJS 6, 7, 8+</a> |
+| 📟 <b><a href="https://github.com/reececomo/tinybuf">tinybuf</a></b> | Compressed binary serializers for HTML5 / Node.js |
+
 </p>
 
-
 <hr/>
+
+### Other:
 
 <p align="center">
   <a href="https://2dsoccer.com"><img alt="2DSoccer.com Logo" height="64px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/2d-soccer.png" /></a>
