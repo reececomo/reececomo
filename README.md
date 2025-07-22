@@ -1,7 +1,7 @@
 <h3 align="center"><a href="https://2dsoccer.com">2dsoccer.com</a></h3>
 
 <p align="center">
-  A cross-platform online multiplayer party game with realtime physics, in the browser!
+  An online multiplayer physics party game, cross-platform on any device.
 </p>
 
 <p align="center">
