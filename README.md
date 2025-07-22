@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://2dsoccer.com"><img alt="2D Soccer!" height="256px" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/2dsoccer-gameplay.jpg" /></a>
+  <a href="https://2dsoccer.com"><img alt="2D Soccer Gameplay" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/IMG_1910.gif" /></a>
 </p>
