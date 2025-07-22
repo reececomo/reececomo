@@ -1,7 +1,7 @@
 <h3 align="center"><a href="https://2dsoccer.com">2dsoccer.com</a></h3>
 
 <p align="center">
-  An online multiplayer physics party game, cross-platform on any device.
+  The online, cross-platform, multiplayer physics party game!
 </p>
 
 <p align="center">
