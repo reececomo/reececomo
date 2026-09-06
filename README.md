@@ -1,9 +1,9 @@
-<h3 align="center"><a href="https://slimeleague.com">slimeleague.com</a></h3>
+<h1 align="center">Slime League</h1>
 
 <p align="center">
-  The online, cross-platform, multiplayer physics party game!
+  My multiplayer party game (web & mobile)<br/><a href="https://slimeleague.com">https://slimeleague.com</a> - <a href="https://www.youtube.com/watch?v=eybuF1cqua4">Watch Gameplay on Youtube</a>
 </p>
 
 <p align="center">
-  <a href="https://2dsoccer.com"><img alt="Gameplay" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/IMG_1910.gif" /></a>
+  <a href="https://www.youtube.com/watch?v=eybuF1cqua4"><img alt="Gameplay" src="https://raw.githubusercontent.com/reececomo/reececomo/main/assets/Screenshot%2022.png" /></a>
 </p>
